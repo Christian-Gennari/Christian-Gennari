@@ -24,7 +24,7 @@ Jag har ett nästan tvångsmässigt behov av att hålla saker löst kopplade. Ty
 
 Inte bara för att jag älskar abstraktioner (men det gör jag!) utan för att det gör att jag kan fokusera på de *stora* problemen istället för att fastna i technical debt. När koden är strukturerad rätt kan jag tänka på affärslogik, inte coupling costs.
 
-## Teknik jag gillar att jobba med
+## Teknik jag uppskattar att arbeta med
 
 **Backend**
 
