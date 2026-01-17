@@ -48,6 +48,6 @@ Jag kan bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra 
 
 Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
 
-📫 **Nå mig på:** 
+📫 **Nå mig enklast på** 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangennari/)
