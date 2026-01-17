@@ -12,19 +12,19 @@ Idag kodar jag, och konstigt nog använder *båda* perspektiv för just det:
 - **Statsvetenskapen** hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
 - **Videoproduktionen** får mig att bry mig om varje pixel och interaktion i frontenden
 
-## Där jag är idag
+## Just nu
 
 Just nu studerar jag **Systemutvecklare .NET med AI-kompetens** på Edugrade.
 
 På fritiden bygger jag på [Nostos-Rebirth](https://github.com/Christian-Gennari/Nostos-Rebirth) – ett egenhostat system för kunskapshantering och digitalt bibliotek. Det kombinerar e-böcker och ljudböcker med en "second brain"-vy som kopplar samman alla dina taggar och anteckningar. Byggt i **.NET 10** och **Angular 21**.
 
-## Hur jag tänker på kod
+## Min filosofi
 
 Jag har ett nästan tvångsmässigt behov av att hålla saker löst kopplade. Tydlig separation, klara gränser mellan lager, dependency injection överallt. 
 
 Inte bara för att jag älskar abstraktioner (men det gör jag!) utan för att det gör att jag kan fokusera på de *stora* problemen istället för att fastna i technical debt. När koden är strukturerad rätt kan jag tänka på affärslogik, inte coupling costs.
 
-## Teknik jag uppskattar att arbeta med
+## Teknik jag uppskattar
 
 **Backend**
 
