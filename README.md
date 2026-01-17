@@ -8,7 +8,7 @@ Jag började min karriär med **videoproduktion** och drev eget företag. Där l
 
 Sen tog jag en helt annan sväng och läste **statsvetenskap**. Plötsligt handlade allt om system, strukturer och logiska samband. Hur saker hänger ihop. Varför vissa saker fungerar och andra inte.
 
-Idag kodar jag, och konstigt nog använder *båda* perspektiv för just det:
+Idag kodar jag, och konstigt nog används *båda* perspektiv för just det:
 - **Statsvetenskapen** hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
 - **Videoproduktionen** får mig att bry mig om varje pixel och interaktion i frontenden
 
