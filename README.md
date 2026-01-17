@@ -12,11 +12,11 @@ Idag kodar jag, och konstigt nog används *båda* perspektiv för just det:
 - **Statsvetenskapen** hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
 - **Videoproduktionen** får mig att bry mig om varje pixel och interaktion i frontenden
 
-### Min filosofi
+### Filosofi
 
-Jag har ett nästan tvångsmässigt behov av att hålla saker löst kopplade. Tydlig separation, klara gränser mellan lager, dependency injection överallt. 
+Besitter ett nästan tvångsmässigt behov av att hålla saker löst kopplade driver utvecklingsarbetet. Tydlig separation, klara gränser mellan lager, dependency injection överallt.
 
-Inte bara för att jag älskar abstraktioner (men det gör jag!) utan för att det gör att jag kan fokusera på de *stora* problemen istället för att fastna i technical debt. När koden är strukturerad rätt kan jag tänka på affärslogik, inte coupling costs.
+Inte bara för kärleken till abstraktioner (som definitivt finns där!) utan för att det möjliggör fokus på de stora problemen istället för att fastna i technical debt. När koden är strukturerad rätt kan energin läggas på affärslogik, inte coupling costs.
 
 ## Söker LIA-plats (och vad jag bidrar med)
 
@@ -24,17 +24,17 @@ Jag letar efter **LIA-praktik** med start **november 2026**. Du når mig enklast
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangennari/)
 
-Jag kan bygga fullstack-lösningar från grunden, vilket gör att jag är kapabel att bidra med faktiskt värde från dag ett. Men det jag verkligen söker är att lära mig av erfarna utvecklare, folk som har sett mönster jag bara läst om, som vet varför vissa arkitekturval funkar i verkligheten och andra inte.
+Är kapabel att bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra med faktiskt värde från dag ett. Men det som skulle uppskattas oerhört från min sida är möjligheten att lära sig av erfarna utvecklare, folk som har sett mönster jag bara läst om, som vet varför vissa arkitekturval fungersr i verkligheten och andra inte.
 
 Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
 
 ## Just nu
 
-Just nu studerar jag **Systemutvecklare .NET med AI-kompetens** på Edugrade.
+Just nu är fokuset på min utbildning **Systemutvecklare .NET med AI-kompetens** hos Edugrade.
 
-På fritiden bygger jag på [Nostos-Rebirth](https://github.com/Christian-Gennari/Nostos-Rebirth) – ett egenhostat system för kunskapshantering och digitalt bibliotek. Det kombinerar e-böcker och ljudböcker med en "second brain"-vy som kopplar samman alla dina taggar och anteckningar. Byggt i **.NET 10** och **Angular 21**.
+Utöver det så tillägnas en del av fritiden åt hobby-projektet [Nostos-Rebirth](https://github.com/Christian-Gennari/Nostos-Rebirth) – ett egenhostat system för kunskapshantering och samtidigt ett digitalt bibliotek. Det kombinerar e-böcker och ljudböcker med en "second brain"-vy som kopplar samman alla dina taggar och anteckningar. Byggt i **.NET 10** och **Angular 21**.
 
-## Teknik jag uppskattar
+## Teknik som uppskattas
 
 **Backend**
 
