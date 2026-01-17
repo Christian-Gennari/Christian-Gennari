@@ -2,7 +2,7 @@
 
 Jag heter Christian och är systemutvecklare i Hudiksvall. Min väg hit har varit allt annat än rak, och jag skulle vilja påstå att det är precis det som gör mitt perspektiv något unikt.
 
-## Från kamera till kod
+## Min väg hit
 
 Jag började min karriär med **videoproduktion** och drev eget företag. Där lärde jag mig att tänka på slutanvändaren: vad ser de? Vad känner de? Fungerar det här *verkligen*?
 
@@ -12,7 +12,7 @@ Idag kodar jag, och konstigt nog använder *båda* perspektiv för just det:
 - **Statsvetenskapen** hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
 - **Videoproduktionen** får mig att bry mig om varje pixel och interaktion i frontenden
 
-## Vad jag jobbar med
+## Där jag är idag
 
 Just nu studerar jag **Systemutvecklare .NET med AI-kompetens** på Edugrade.
 
@@ -38,7 +38,7 @@ Inte bara för att jag älskar abstraktioner (men det gör jag!) utan för att d
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Jag tror självklart på att välja rätt verktyg för jobbet, inte det mest hypeade, utan det som faktiskt löser problemet bäst.
+Med det sagt tror jag självklart på att välja rätt verktyg för jobbet, inte det mest trendiga, utan det som faktiskt löser problemet bäst.
 
 ## Söker LIA 
 
@@ -48,6 +48,6 @@ Jag kan bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra 
 
 Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
 
-📫 **Nå mig enklast på** 
+**Nå mig enklast på:**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangennari/)
