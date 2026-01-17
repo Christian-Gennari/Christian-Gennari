@@ -24,7 +24,7 @@ Jag letar efter **LIA-praktik** med start **november 2026**. Du når mig enklast
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangennari/)
 
-Är kapabel att bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra med faktiskt värde från dag ett. Men det som skulle uppskattas oerhört från min sida är möjligheten att lära sig av erfarna utvecklare, folk som har sett mönster jag bara läst om, som vet varför vissa arkitekturval fungerar i verkligheten och andra inte.
+Är kapabel att bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra med faktiskt värde från dag ett. Men det som skulle uppskattas oerhört från min sida är möjligheten att lära sig av erfarna utvecklare, folk som har stött på mönster jag bara läst om, som vet varför vissa arkitekturval fungerar i verkligheten och andra inte.
 
 Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
 
