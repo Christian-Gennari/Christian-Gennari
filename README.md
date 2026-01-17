@@ -40,14 +40,12 @@ Inte bara för att jag älskar abstraktioner (men det gör jag!) utan för att d
 
 Med det sagt tror jag självklart på att välja rätt verktyg för jobbet, inte det mest trendiga, utan det som faktiskt löser problemet bäst.
 
-## Söker LIA 
+Söker LIA-plats (och vad jag bidrar med)
 
-Jag letar efter **LIA-praktik** med start **november 2026**. 
-
-Jag kan bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra med faktiskt värde från dag ett. Men det jag verkligen söker är att lära mig av erfarna utvecklare, folk som har sett mönster jag bara läst om, som vet varför vissa arkitekturval funkar i verkligheten och andra inte.
-
-Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
-
-**Nå mig enklast på:**
+Jag letar efter **LIA-praktik** med start **november 2026**. Nå mig enklast på:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangennari/)
+
+Jag kan bygga fullstack-lösningar från grunden, vilket gör att jag är kapabel att bidra med faktiskt värde från dag ett. Men det jag verkligen söker är att lära mig av erfarna utvecklare, folk som har sett mönster jag bara läst om, som vet varför vissa arkitekturval funkar i verkligheten och andra inte.
+
+Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
