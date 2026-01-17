@@ -40,7 +40,7 @@ Inte bara för att jag älskar abstraktioner (men det gör jag!) utan för att d
 
 Med det sagt tror jag självklart på att välja rätt verktyg för jobbet, inte det mest trendiga, utan det som faktiskt löser problemet bäst.
 
-Söker LIA-plats (och vad jag bidrar med)
+## Söker LIA-plats (och vad jag bidrar med)
 
 Jag letar efter **LIA-praktik** med start **november 2026**. Nå mig enklast på:
 
