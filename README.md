@@ -2,7 +2,7 @@
 
 Jag heter Christian och är systemutvecklare i Hudiksvall. Min väg hit har varit allt annat än rak, och jag skulle vilja påstå att det är precis det som gör mitt perspektiv något unikt.
 
-## Min väg hit
+### Vägen hit
 
 Jag började min karriär med **videoproduktion** och drev eget företag. Där lärde jag mig att tänka på slutanvändaren: vad ser de? Vad känner de? Fungerar det här *verkligen*?
 
