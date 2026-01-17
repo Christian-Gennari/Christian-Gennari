@@ -12,11 +12,11 @@ Idag kodar jag, och konstigt nog används *båda* perspektiv för just det:
 - **Statsvetenskapen** hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
 - **Videoproduktionen** får mig att bry mig om varje pixel och interaktion i frontenden
 
-### Filosofi
+### Min kodfilosofi
 
-Besitter ett nästan tvångsmässigt behov av att hålla saker löst kopplade driver utvecklingsarbetet. Tydlig separation, klara gränser mellan lager, dependency injection överallt.
+Jag drivs av ett nästan tvångsmässigt behov av Loose Coupling. Tydlig separation, klara gränser mellan lager och Dependency Injection är hörnstenar i allt jag bygger.
 
-Inte bara för kärleken till abstraktioner (som definitivt finns där!) utan för att det möjliggör fokus på de stora problemen istället för att fastna i technical debt. När koden är strukturerad rätt kan energin läggas på affärslogik, inte coupling costs.
+Inte bara för kärleken till abstraktioner, utan för att det minimerar "technical debt". När strukturen sitter kan energin läggas på affärslogik istället för att brottas med koden.
 
 ## Söker LIA-plats (och vad jag bidrar med)
 
