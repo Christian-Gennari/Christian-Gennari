@@ -2,7 +2,7 @@
 
 Jag heter Christian och är systemutvecklare i Hudiksvall. Min väg hit har varit allt annat än rak, och jag skulle vilja påstå att det är precis det som gör mitt perspektiv något unikt.
 
-Min karriär började inom videoproduktion där jag medgrundade ett företag. Då handlade vardagen främst om visuell kommunikation, att fånga en publiks uppmärksamhet genom förståelse för målgruppen och dess behov. Sen tog jag en helt annan sväng och läste statsvetenskap. Plötsligt handlade allt om system, strukturer och logiska samband. Hur saker hänger ihop och varför vissa strukturer bär upp ett samhälle medan andra fallerar.
+Karriären började inom videoproduktion där jag medgrundade ett företag. Då handlade vardagen främst om visuell kommunikation, att fånga en publiks uppmärksamhet genom förståelse för målgruppen och dess behov. Sen tog jag en helt annan sväng och läste statsvetenskap. Plötsligt handlade allt om system, strukturer och logiska samband. Hur saker hänger ihop och varför vissa strukturer bär upp ett samhälle medan andra fallerar.
 
 När jag påbörjade min utbildning som systemutvecklare insåg jag snabbt att de tidigare erfarenheterna inte var så spretiga och skilda som man vid första anblick kan tro. Videoproduktionen handlade om att guida ett öga genom en berättelse, medan statsvetenskapen gav mig förmågan att se de stora, bakomliggande strukturerna. Idag kodar jag på heltid, och konstigt nog används *båda* perspektiv för just det:
 - Statsvetenskapen hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
