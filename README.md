@@ -2,15 +2,11 @@
 
 Jag heter Christian och är systemutvecklare i Hudiksvall. Min väg hit har varit allt annat än rak, och jag skulle vilja påstå att det är precis det som gör mitt perspektiv något unikt.
 
-### Vägen hit
+Min karriär började inom videoproduktion där jag medgrundade ett företag. Där handlade vardagen om visuell kommunikation och att fånga en publiks uppmärksamhet genom detaljer. Sen tog jag en helt annan sväng och läste statsvetenskap. Plötsligt handlade allt om system, strukturer och logiska samband. Hur saker hänger ihop och varför vissa strukturer bär upp ett samhälle medan andra fallerar.
 
-Jag började min karriär med **videoproduktion** och drev eget företag. Där lärde jag mig att tänka på slutanvändaren: vad ser de? Vad känner de? Fungerar det här *verkligen*?
-
-Sen tog jag en helt annan sväng och läste **statsvetenskap**. Plötsligt handlade allt om system, strukturer och logiska samband. Hur saker hänger ihop. Varför vissa saker fungerar och andra inte.
-
-Idag kodar jag, och konstigt nog används *båda* perspektiv för just det:
-- **Statsvetenskapen** hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
-- **Videoproduktionen** får mig att bry mig om varje pixel och interaktion i frontenden
+När jag påbörjade min utbildning som systemutvecklare insåg jag snabbt att de tidigare erfarenheterna inte var så spretiga och okopplade som man vid första anblick kan tro. Videoproduktionen handlade om att guida ett öga genom en berättelse, medan statsvetenskapen gav mig förmågan att se de stora, bakomliggande strukturerna. Idag kodar jag på heltid, och konstigt nog används *båda* perspektiv för just det:
+- Statsvetenskapen hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
+- Videoproduktionen får mig att bry mig om varje pixel och interaktion i frontenden
 
 ### Min kodfilosofi
 
@@ -18,13 +14,13 @@ Jag drivs av ett nästan tvångsmässigt behov av Loose Coupling. Tydlig separat
 
 Inte bara för kärleken till abstraktioner, utan för att det minimerar "technical debt". När strukturen sitter kan energin läggas på affärslogik istället för att brottas med koden.
 
-## Söker LIA-plats (och vad jag bidrar med)
+## Söker LIA-plats (och hur jag bidrar till arbetsplatsen)
 
 Jag letar efter **LIA-praktik** med start **november 2026**. Du når mig enklast på:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangennari/)
 
-Är kapabel att bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra med faktiskt värde från dag ett. Men det som skulle uppskattas oerhört från min sida är möjligheten att lära sig av erfarna utvecklare, folk som har stött på mönster jag bara läst om, som vet varför vissa arkitekturval fungerar i verkligheten och andra inte.
+Är kapabel att bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra med faktiskt värde från dag ett. Samtidigt är det som skulle uppskattas oerhört från min sida möjligheten att lära sig av erfarna utvecklare, folk som har stött på mönster jag bara läst om, som vet varför vissa arkitekturval fungerar i verkligheten och andra inte.
 
 Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
 
