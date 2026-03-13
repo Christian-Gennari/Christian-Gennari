@@ -79,7 +79,7 @@ Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, 
 
 <div align="center">
 
-*"No man ever steps in the same codebase twice, for it's not the same code, and he's not the same developer."* — Heraclitus
+*"Give me a place to stand and a working API, and I shall move the world."* — Archimedes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Gennari-8aadf4?style=flat-square&logo=linkedin&logoColor=1e2030)](https://www.linkedin.com/in/christiangennari/)
 [![Email](https://img.shields.io/badge/Mail-contact@cgennari.com-494d64?style=flat-square&logo=protonmail&logoColor=cad3f5)](mailto:contact@cgennari.com)
