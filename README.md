@@ -35,38 +35,38 @@ Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, 
 `.NET 9 / ASP.NET Core` · Realtidschatt byggd för att bemästra asynkron kommunikation på djupet.
 
 ---
-
+ 
 ## Teknik
-
+ 
 **Backend, .NET-plattformen**
-
-![C#](https://img.shields.io/badge/C%23-8aadf4?style=flat-square&logo=csharp&logoColor=1e2030)
-![.NET](https://img.shields.io/badge/.NET-8aadf4?style=flat-square&logo=dotnet&logoColor=1e2030)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-8aadf4?style=flat-square&logo=dotnet&logoColor=1e2030)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-8aadf4?style=flat-square&logo=dotnet&logoColor=1e2030)
-
+ 
+![C#](https://img.shields.io/badge/C%23-363a4f?style=flat-square&logo=csharp&logoColor=8aadf4)
+![.NET](https://img.shields.io/badge/.NET-363a4f?style=flat-square&logo=dotnet&logoColor=8aadf4)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-363a4f?style=flat-square&logo=dotnet&logoColor=8aadf4)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-363a4f?style=flat-square&logo=dotnet&logoColor=8aadf4)
+ 
 **Backend, övrigt**
-
-![Azure](https://img.shields.io/badge/Azure-91d7e3?style=flat-square&logo=microsoftazure&logoColor=1e2030)
-![SQL Server](https://img.shields.io/badge/SQL_Server-91d7e3?style=flat-square&logo=microsoftsqlserver&logoColor=1e2030)
-![Node.js](https://img.shields.io/badge/Node.js-a6da95?style=flat-square&logo=nodedotjs&logoColor=1e2030)
-
+ 
+![Azure](https://img.shields.io/badge/Azure-363a4f?style=flat-square&logo=microsoftazure&logoColor=91d7e3)
+![SQL Server](https://img.shields.io/badge/SQL_Server-363a4f?style=flat-square&logo=microsoftsqlserver&logoColor=91d7e3)
+![Node.js](https://img.shields.io/badge/Node.js-363a4f?style=flat-square&logo=nodedotjs&logoColor=a6da95)
+ 
 **Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-ed8796?style=flat-square&logo=angular&logoColor=1e2030)
-![TypeScript](https://img.shields.io/badge/TypeScript-ed8796?style=flat-square&logo=typescript&logoColor=1e2030)
-![React](https://img.shields.io/badge/React-ee99a0?style=flat-square&logo=react&logoColor=1e2030)
-
+ 
+![Angular](https://img.shields.io/badge/Angular-363a4f?style=flat-square&logo=angular&logoColor=ed8796)
+![TypeScript](https://img.shields.io/badge/TypeScript-363a4f?style=flat-square&logo=typescript&logoColor=ed8796)
+![React](https://img.shields.io/badge/React-363a4f?style=flat-square&logo=react&logoColor=ed8796)
+ 
 **Verktyg**
-
-![Git](https://img.shields.io/badge/Git-f5a97f?style=flat-square&logo=git&logoColor=1e2030)
-![Postman](https://img.shields.io/badge/Postman-f5a97f?style=flat-square&logo=postman&logoColor=1e2030)
-![VS Code](https://img.shields.io/badge/VS_Code-f5a97f?style=flat-square&logo=visualstudiocode&logoColor=1e2030)
-
+ 
+![Git](https://img.shields.io/badge/Git-363a4f?style=flat-square&logo=git&logoColor=f5a97f)
+![Postman](https://img.shields.io/badge/Postman-363a4f?style=flat-square&logo=postman&logoColor=f5a97f)
+![VS Code](https://img.shields.io/badge/VS_Code-363a4f?style=flat-square&logo=visualstudiocode&logoColor=f5a97f)
+ 
 **Certifikat**
-
-![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-a6da95?style=flat-square&logo=microsoftazure&logoColor=1e2030)
-
+ 
+![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-363a4f?style=flat-square&logo=microsoftazure&logoColor=a6da95)
+ 
 ---
 
 <div align="center">
