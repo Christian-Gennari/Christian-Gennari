@@ -48,6 +48,7 @@ Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, 
 **Backend, övrigt**
  
 ![Azure](https://img.shields.io/badge/Azure-363a4f?style=for-the-badge&logo=microsoftazure&logoColor=91d7e3)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=91d7e3)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-363a4f?style=for-the-badge&logo=microsoftsqlserver&logoColor=91d7e3)
 ![Node.js](https://img.shields.io/badge/Node.js-363a4f?style=for-the-badge&logo=nodedotjs&logoColor=a6da95)
  
@@ -62,7 +63,7 @@ Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, 
 ![Git](https://img.shields.io/badge/Git-363a4f?style=for-the-badge&logo=git&logoColor=f5a97f)
 ![Postman](https://img.shields.io/badge/Postman-363a4f?style=for-the-badge&logo=postman&logoColor=f5a97f)
 ![VS Code](https://img.shields.io/badge/VS_Code-363a4f?style=for-the-badge&logo=visualstudiocode&logoColor=f5a97f)
- 
+
 **Certifikat**
  
 ![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-363a4f?style=for-the-badge&logo=microsoftazure&logoColor=a6da95)
