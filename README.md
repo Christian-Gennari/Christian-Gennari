@@ -46,11 +46,11 @@ Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, 
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-363a4f?style=for-the-badge&logo=dotnet&logoColor=8aadf4)
  
 **Backend, övrigt**
- 
-![Azure](https://img.shields.io/badge/Azure-363a4f?style=for-the-badge&logo=microsoftazure&logoColor=91d7e3)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=91d7e3)
-![SQL Server](https://img.shields.io/badge/SQL_Server-363a4f?style=for-the-badge&logo=microsoftsqlserver&logoColor=91d7e3)
+
 ![Node.js](https://img.shields.io/badge/Node.js-363a4f?style=for-the-badge&logo=nodedotjs&logoColor=a6da95)
+![PostgreSQL](https://img.shields.io/badge/postgresql-363a4f?style=for-the-badge&logo=postgresql&logoColor=91d7e3)
+![Azure](https://img.shields.io/badge/Azure-363a4f?style=for-the-badge&logo=microsoftazure&logoColor=91d7e3)
+![SQL Server](https://img.shields.io/badge/SQL_Server-363a4f?style=for-the-badge&logo=microsoftsqlserver&logoColor=91d7e3)
  
 **Frontend**
  
