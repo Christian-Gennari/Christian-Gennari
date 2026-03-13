@@ -71,7 +71,7 @@ Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gennari&layout=compact&hide_border=true&langs_count=6&bg_color=1e2030&title_color=8aadf4&text_color=cad3f5&icon_color=8bd5ca)
+![Streak](https://streak-stats.demolab.com?user=Christian-Gennari&hide_border=true&background=1e2030&ring=8aadf4&fire=ed8796&currStreakLabel=cad3f5&sideLabels=cad3f5&dates=6272a4&currStreakNum=cad3f5&sideNums=cad3f5)
 
 </div>
 
