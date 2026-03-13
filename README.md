@@ -1,47 +1,91 @@
-# Hej! 👋
+<div align="center">
 
-Jag heter Christian och är systemutvecklare i Hudiksvall. Min väg hit har varit allt annat än rak, och jag skulle vilja påstå att det är precis det som gör mitt perspektiv något unikt.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,1e2030,8aadf4&height=130&text=Christian%20Gennari&fontColor=cad3f5&fontSize=34&fontAlignY=42&desc=Systemutvecklare%20.NET%20%7C%20Hudiksvall&descSize=15&descAlignY=64&descAlign=50)
 
-Karriären började inom videoproduktion där jag medgrundade ett företag. Då handlade vardagen främst om visuell kommunikation, att fånga en publiks uppmärksamhet genom förståelse för målgruppen och dess behov. Sen tog jag en helt annan sväng och läste statsvetenskap. Plötsligt handlade allt om system, strukturer och logiska samband. Hur saker hänger ihop och varför vissa strukturer bär upp ett samhälle medan andra fallerar.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=8AADF4&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;Vuxet+fokus+på+värde.;S%C3%B6ker+LIA+fr%C3%A5n+november+2026.)](https://git.io/typing-svg)
 
-När jag påbörjade min utbildning som systemutvecklare insåg jag snabbt att de tidigare erfarenheterna inte var så spretiga och skilda som man vid första anblick kan tro. Videoproduktionen handlade om att guida ett öga genom en berättelse, medan statsvetenskapen gav mig förmågan att se de stora, bakomliggande strukturerna. Idag kodar jag på heltid, och konstigt nog används *båda* perspektiv för just det:
-- Statsvetenskapen hjälper mig bygga ren, genomtänkt backend-arkitektur i .NET
-- Videoproduktionen får mig att bry mig om varje pixel och interaktion i frontenden
+![Location](https://img.shields.io/badge/Hudiksvall-Sverige-363a4f?style=flat-square&logoColor=cad3f5)
+![LIA](https://img.shields.io/badge/LIA-Nov_2026_–_Apr_2027-8aadf4?style=flat-square&logoColor=1e2030)
+![Views](https://komarev.com/ghpvc/?username=Christian-Gennari&style=flat-square&color=363a4f&label=profile+views)
 
-### Min kodfilosofi
+</div>
 
-Jag drivs av ett nästan tvångsmässigt behov av Loose Coupling. Tydlig separation, klara gränser mellan lager och Dependency Injection är hörnstenar i allt jag bygger.
+---
 
-Inte bara för kärleken till abstraktioner, utan för att det minimerar "technical debt". När strukturen sitter kan energin läggas på affärslogik istället för att brottas med koden.
+Ambitionen är att bygga kod som tål framtiden: genomtänkt, hållbar och framför allt användbar. Junior i rollen, men med ett vuxet fokus på värde.
 
-## Söker LIA-plats (och hur jag bidrar till arbetsplatsen)
+Vägen hit ser spretig ut på pappret: medgrundare av ett mediebolag, kandidatexamen i statsvetenskap, och nu systemutveckling på heltid. Men trådarna hänger ihop. Erfarenheten som grundare lärde mig att den snyggaste koden är värdelös om den inte löser rätt problem. Statsvetenskapen tränade mig att analysera komplexa strukturer och se hur små detaljer påverkar helheten. Mediebakgrunden vässade mitt öga för detaljer och användarfokus.
 
-Jag letar efter **LIA-praktik** med start **november 2026**. Du når mig enklast på:
+Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, Dependency Injection som standard. Inte för abstraktionens skull, utan för att det är det enda sättet kod kan leva länge i produktion utan att bli en skuldbörda.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christiangennari/)
+---
 
-Är kapabel att bygga fullstack-lösningar från grunden, vilket gör att jag kan bidra med faktiskt värde från dag ett. Samtidigt är det som skulle uppskattas oerhört från min sida möjligheten att lära sig av erfarna utvecklare, folk som har stött på mönster jag bara läst om, som vet varför vissa arkitekturval fungerar i verkligheten och andra inte.
+## Projekt
 
-Jag vill förstå hur riktiga team jobbar, hur man balanserar pragmatism med kvalitet, och hur kod faktiskt lever och andas i produktion över tid.
+### [Nostos-Rebirth](https://github.com/Christian-Gennari/Nostos-Rebirth)
+`.NET 10 / EF Core` · Modernt, självhostat Personal Knowledge Management-system. Förenar e-böcker och ljudböcker med en second brain-vy som kopplar samman taggar och anteckningar tvärs samlingar.
 
-## Just nu
+### ELLA
+`Node.js / Express` · Edugrade Location & Logistics Assistant, ett komplett rumsbokningssystem byggt under utbildningen.
 
-Just nu är fokuset på min utbildning **Systemutvecklare .NET med AI-kompetens** hos Edugrade.
+### Duck Drive
+`Angular 21 / Node.js` · Google Drive-inspirerad filhanterare med fokus på typintegritet.
 
-Utöver det så tillägnas en del av fritiden åt hobby-projektet [Nostos-Rebirth](https://github.com/Christian-Gennari/Nostos-Rebirth) – ett egenhostat system för kunskapshantering och samtidigt ett digitalt bibliotek. Det kombinerar e-böcker och ljudböcker med en "second brain"-vy som kopplar samman alla dina taggar och anteckningar. Byggt i **.NET 10** och **Angular 21**.
+### Ducklord Chat
+`.NET 9 / ASP.NET Core` · Realtidschatt byggd för att bemästra asynkron kommunikation på djupet.
 
-## Teknik som uppskattas
+---
 
-**Backend**
+## Teknik
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Backend, .NET-plattformen**
+
+![C#](https://img.shields.io/badge/C%23-8aadf4?style=flat-square&logo=csharp&logoColor=1e2030)
+![.NET](https://img.shields.io/badge/.NET-8aadf4?style=flat-square&logo=dotnet&logoColor=1e2030)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-8aadf4?style=flat-square&logo=dotnet&logoColor=1e2030)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-8aadf4?style=flat-square&logo=dotnet&logoColor=1e2030)
+
+**Backend, övrigt**
+
+![Azure](https://img.shields.io/badge/Azure-91d7e3?style=flat-square&logo=microsoftazure&logoColor=1e2030)
+![SQL Server](https://img.shields.io/badge/SQL_Server-91d7e3?style=flat-square&logo=microsoftsqlserver&logoColor=1e2030)
+![Node.js](https://img.shields.io/badge/Node.js-a6da95?style=flat-square&logo=nodedotjs&logoColor=1e2030)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-ed8796?style=flat-square&logo=angular&logoColor=1e2030)
+![TypeScript](https://img.shields.io/badge/TypeScript-ed8796?style=flat-square&logo=typescript&logoColor=1e2030)
+![React](https://img.shields.io/badge/React-ee99a0?style=flat-square&logo=react&logoColor=1e2030)
 
 **Verktyg**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f5a97f?style=flat-square&logo=git&logoColor=1e2030)
+![Postman](https://img.shields.io/badge/Postman-f5a97f?style=flat-square&logo=postman&logoColor=1e2030)
+![VS Code](https://img.shields.io/badge/VS_Code-f5a97f?style=flat-square&logo=visualstudiocode&logoColor=1e2030)
 
-Med det sagt tror jag självklart på att välja rätt verktyg för jobbet, inte det mest trendiga, utan det som faktiskt löser problemet bäst.
+**Certifikat**
+
+![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-a6da95?style=flat-square&logo=microsoftazure&logoColor=1e2030)
+
+---
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Gennari&layout=compact&hide_border=true&langs_count=6&bg_color=1e2030&title_color=8aadf4&text_color=cad3f5&icon_color=8bd5ca)
+
+</div>
+
+---
+
+<div align="center">
+
+*"No man ever steps in the same codebase twice, for it's not the same code, and he's not the same developer."* — Heraclitus
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Gennari-8aadf4?style=flat-square&logo=linkedin&logoColor=1e2030)](https://www.linkedin.com/in/christiangennari/)
+[![Email](https://img.shields.io/badge/Mail-contact@cgennari.com-494d64?style=flat-square&logo=protonmail&logoColor=cad3f5)](mailto:contact@cgennari.com)
+
+*Pull requests välkomnas.*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,8aadf4,1e2030&height=80&section=footer)
+
+</div>
