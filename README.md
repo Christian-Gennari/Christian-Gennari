@@ -2,10 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0,1e2030,8aadf4&height=130&text=Christian%20Gennari&fontColor=cad3f5&fontSize=34&fontAlignY=42&desc=Systemutvecklare%20.NET%20%7C%20Hudiksvall&descSize=15&descAlignY=64&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=8AADF4&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;Vuxet+fokus+på+värde.;S%C3%B6ker+LIA+fr%C3%A5n+november+2026.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=8AADF4&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;Vuxet+fokus+på+värde.)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Hudiksvall-Sverige-363a4f?style=for-the-badge&logoColor=cad3f5)
-![LIA](https://img.shields.io/badge/LIA-Nov_2026_–_Apr_2027-8aadf4?style=for-the-badge&logoColor=1e2030)
 ![Views](https://komarev.com/ghpvc/?username=Christian-Gennari&style=for-the-badge&color=363a4f&label=profile+views)
 
 </div>
