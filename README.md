@@ -1,39 +1,21 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0,1e2030,8aadf4&height=130&text=Christian%20Gennari&fontColor=cad3f5&fontSize=34&fontAlignY=42&desc=Systemutvecklare%20.NET%20%7C%20Hudiksvall&descSize=15&descAlignY=64&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=8AADF4&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;Vuxet+fokus+på+värde.)](https://git.io/typing-svg)
-
-![Location](https://img.shields.io/badge/Hudiksvall-Sverige-363a4f?style=for-the-badge&logoColor=cad3f5)
-![Views](https://komarev.com/ghpvc/?username=Christian-Gennari&style=for-the-badge&color=363a4f&label=profile+views)
-
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&text=Christian%20Gennari&fontColor=c0caf5&fontSize=34&fontAlignY=42&desc=Systemutvecklare%20.NET%20%7C%20Hudiksvall&descSize=15&descAlignY=64&descAlign=50)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=7aa2f7&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;Vuxet+fokus+p%C3%A5+v%C3%A4rde.)](https://git.io/typing-svg)
+ 
+![Location](https://img.shields.io/badge/Hudiksvall%2C_Sverige-1f2335?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7)
+![Views](https://komarev.com/ghpvc/?username=Christian-Gennari&style=for-the-badge&color=1f2335&label=profile+views&labelColor=24283b)
+ 
 </div>
-
+ 
 ---
-
+ 
 Ambitionen är att bygga kod som tål framtiden: genomtänkt, hållbar och framför allt användbar. Junior i rollen, men med ett vuxet fokus på värde.
-
+ 
 Vägen hit ser spretig ut på pappret: medgrundare av ett mediebolag, kandidatexamen i statsvetenskap, och nu systemutveckling på heltid. Men trådarna hänger ihop. Erfarenheten som grundare lärde mig att den snyggaste koden är värdelös om den inte löser rätt problem. Statsvetenskapen tränade mig att analysera komplexa strukturer och se hur små detaljer påverkar helheten. Mediebakgrunden vässade mitt öga för detaljer och användarfokus.
-
-Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, Dependency Injection som standard. Inte för abstraktionens skull, utan för att det är det enda sättet kod kan leva länge i produktion utan att bli en skuldbörda.
-
----
-
-## Projekt
-
-### [Nostos-Rebirth](https://github.com/Christian-Gennari/Nostos-Rebirth)
-`.NET 10 / EF Core` · Modernt, självhostat Personal Knowledge Management-system. Förenar e-böcker och ljudböcker med en second brain-vy som kopplar samman taggar och anteckningar tvärs samlingar.
-
-### ELLA
-`Node.js / Express` · Edugrade Location & Logistics Assistant, ett komplett rumsbokningssystem byggt under utbildningen.
-
-### Duck Drive
-`Angular 21 / Node.js` · Google Drive-inspirerad filhanterare med fokus på typintegritet.
-
-### Ducklord Chat
-`.NET 9 / ASP.NET Core` · Realtidschatt byggd för att bemästra asynkron kommunikation på djupet.
-
----
+ 
+> Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, Dependency Injection som standard. Inte för abstraktionens skull, utan för att det är det enda sättet kod kan leva länge i produktion utan att bli teknisk skuldbörda.
  
 ## Teknik
  
@@ -84,8 +66,5 @@ Det som driver mig mest är **Loose Coupling**: tydlig separation, klara lager, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Gennari-8aadf4?style=for-the-badge&logo=linkedin&logoColor=1e2030)](https://www.linkedin.com/in/christiangennari/)
 [![Email](https://img.shields.io/badge/Mail-contact@cgennari.com-494d64?style=for-the-badge&logo=protonmail&logoColor=cad3f5)](mailto:contact@cgennari.com)
 
-*Pull requests välkomnas.*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0,8aadf4,1e2030&height=80&section=footer)
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer)
 </div>
