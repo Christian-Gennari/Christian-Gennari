@@ -44,6 +44,7 @@ Vägen hit ser spretig ut på pappret: medgrundare av ett mediebolag, kandidatex
 ![Git](https://img.shields.io/badge/Git-363a4f?style=for-the-badge&logo=git&logoColor=f5a97f)
 ![Postman](https://img.shields.io/badge/Postman-363a4f?style=for-the-badge&logo=postman&logoColor=f5a97f)
 ![VS Code](https://img.shields.io/badge/VS_Code-363a4f?style=for-the-badge&logo=visualstudiocode&logoColor=f5a97f)
+![OpenCode](https://img.shields.io/badge/OpenCode-363a4f?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YwZWNlNCIvPgogIDxyZWN0IHg9IjI3IiB5PSIyMiIgd2lkdGg9IjQ2IiBoZWlnaHQ9IjU2IiBmaWxsPSIjMWMxYzFjIi8+CiAgPHJlY3QgeD0iMjciIHk9IjQ0IiB3aWR0aD0iNDYiIGhlaWdodD0iMzQiIGZpbGw9IiM0YTRhNGEiLz4KPC9zdmc+Cg==)
 
 **Certifikat**
  
