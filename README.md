@@ -65,7 +65,8 @@ Vägen hit ser spretig ut på pappret: medgrundare av ett mediebolag, kandidatex
 *"Give me a place to stand and a working API, and I shall move the world."* — Archimedes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Gennari-8aadf4?style=for-the-badge&logo=linkedin&logoColor=1e2030)](https://www.linkedin.com/in/christiangennari/)
-[![Email](https://img.shields.io/badge/Mail-contact@cgennari.com-494d64?style=for-the-badge&logo=protonmail&logoColor=cad3f5)](mailto:contact@cgennari.com)
+
+[![Email](https://img.shields.io/badge/Mail-contact@cgennari.com-494d64?style=for-the-badge&logo=minutemailer&logoColor=cad3f5)](mailto:contact@cgennari.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer)
 </div>
