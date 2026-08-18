@@ -54,7 +54,7 @@ Vägen hit ser spretig ut på pappret: medgrundare av ett mediebolag, kandidatex
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Christian-Gennari&hide_border=true&background=1e2030&ring=8aadf4&fire=ed8796&currStreakLabel=cad3f5&sideLabels=cad3f5&dates=6272a4&currStreakNum=cad3f5&sideNums=cad3f5)
+![Streak](./profile/streak.svg)
 
 </div>
 
