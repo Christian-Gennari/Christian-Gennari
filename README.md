@@ -1,11 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=293E32&height=140&text=Christian%20Gennari&fontColor=EFE9DA&fontSize=36&fontAlignY=40&desc=.NET%20Developer%20%7C%20Hudiksvall&descSize=15&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&text=Christian%20Gennari&fontColor=c0caf5&fontSize=34&fontAlignY=42&desc=.NET%20Developer%20%7C%20Hudiksvall&descSize=15&descAlignY=64&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=20&pause=1100&color=5F8F73&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;A+grown-up+focus+on+value.)](https://nostos.page/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=7aa2f7&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;A+grown-up+focus+on+value.)](https://git.io/typing-svg)
 
-![Location](https://img.shields.io/badge/Hudiksvall%2C_Sweden-293E32?style=flat-square&logo=googlemaps&logoColor=EFE9DA)
-![Views](https://komarev.com/ghpvc/?username=Christian-Gennari&style=flat-square&color=5F8F73&label=profile+views&labelColor=293E32)
+![Location](https://img.shields.io/badge/Hudiksvall%2C_Sweden-1f2335?style=flat-square&logo=googlemaps&logoColor=7aa2f7)
+![Views](https://komarev.com/ghpvc/?username=Christian-Gennari&style=flat-square&color=1f2335&label=profile+views&labelColor=24283b)
 
 </div>
 
@@ -21,9 +21,12 @@ My path looks scattered on paper: co-founder of a media company, a bachelor's de
 
 <div align="center">
 
-<a href="https://nostos.page/"><img src="https://github.com/Christian-Gennari/Nostos/raw/main/docs/brand/logo-light.svg" alt="Nostos" width="88" /></a>
-
-## Nostos
+<a href="https://nostos.page/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Christian-Gennari/Nostos/raw/main/docs/brand/logo-dark.svg">
+    <img src="https://github.com/Christian-Gennari/Nostos/raw/main/docs/brand/logo-light.svg" alt="Nostos" width="150" />
+  </picture>
+</a>
 
 *A home for your reading life.*
 
@@ -37,9 +40,9 @@ My main project for the past year: a reading and writing environment that keeps 
 
 <br>
 
-[![Website](https://img.shields.io/badge/nostos.page-293E32?style=flat-square&logo=googlechrome&logoColor=EFE9DA)](https://nostos.page/)
-[![Source](https://img.shields.io/badge/Source-GPLv3-5F8F73?style=flat-square&logo=github&logoColor=EFE9DA&labelColor=293E32)](https://github.com/Christian-Gennari/Nostos)
-[![Docs](https://img.shields.io/badge/Docs-293E32?style=flat-square&logo=readthedocs&logoColor=EFE9DA)](https://docs.nostos.page)
+[![Website](https://img.shields.io/badge/nostos.page-24283b?style=flat-square&logo=googlechrome&logoColor=7aa2f7)](https://nostos.page/)
+[![Source](https://img.shields.io/badge/Source-GPLv3-24283b?style=flat-square&logo=github&logoColor=7aa2f7)](https://github.com/Christian-Gennari/Nostos)
+[![Docs](https://img.shields.io/badge/Docs-24283b?style=flat-square&logo=readthedocs&logoColor=7aa2f7)](https://docs.nostos.page)
 
 **Early access is open.** I'm looking for testers, and you get a free year in exchange.
 Interested? Get in touch via [email](mailto:contact@cgennari.com) or [LinkedIn](https://www.linkedin.com/in/christiangennari/).
@@ -52,38 +55,38 @@ Interested? Get in touch via [email](mailto:contact@cgennari.com) or [LinkedIn](
 
 **Backend, .NET platform**
 
-![C#](https://img.shields.io/badge/C%23-293E32?style=flat-square&logo=csharp&logoColor=EFE9DA)
-![.NET](https://img.shields.io/badge/.NET-293E32?style=flat-square&logo=dotnet&logoColor=EFE9DA)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-293E32?style=flat-square&logo=dotnet&logoColor=EFE9DA)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-293E32?style=flat-square&logo=dotnet&logoColor=EFE9DA)
+![C#](https://img.shields.io/badge/C%23-363a4f?style=flat-square&logo=csharp&logoColor=8aadf4)
+![.NET](https://img.shields.io/badge/.NET-363a4f?style=flat-square&logo=dotnet&logoColor=8aadf4)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-363a4f?style=flat-square&logo=dotnet&logoColor=8aadf4)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-363a4f?style=flat-square&logo=dotnet&logoColor=8aadf4)
 
 **Backend, other**
 
-![Node.js](https://img.shields.io/badge/Node.js-293E32?style=flat-square&logo=nodedotjs&logoColor=EFE9DA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-293E32?style=flat-square&logo=postgresql&logoColor=EFE9DA)
-![SQLite](https://img.shields.io/badge/SQLite-293E32?style=flat-square&logo=sqlite&logoColor=EFE9DA)
-![SQL Server](https://img.shields.io/badge/SQL_Server-293E32?style=flat-square&logo=microsoftsqlserver&logoColor=EFE9DA)
-![Azure](https://img.shields.io/badge/Azure-293E32?style=flat-square&logo=microsoftazure&logoColor=EFE9DA)
-![Docker](https://img.shields.io/badge/Docker-293E32?style=flat-square&logo=docker&logoColor=EFE9DA)
+![Node.js](https://img.shields.io/badge/Node.js-363a4f?style=flat-square&logo=nodedotjs&logoColor=a6da95)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-363a4f?style=flat-square&logo=postgresql&logoColor=91d7e3)
+![SQLite](https://img.shields.io/badge/SQLite-363a4f?style=flat-square&logo=sqlite&logoColor=91d7e3)
+![SQL Server](https://img.shields.io/badge/SQL_Server-363a4f?style=flat-square&logo=microsoftsqlserver&logoColor=91d7e3)
+![Azure](https://img.shields.io/badge/Azure-363a4f?style=flat-square&logo=microsoftazure&logoColor=91d7e3)
+![Docker](https://img.shields.io/badge/Docker-363a4f?style=flat-square&logo=docker&logoColor=91d7e3)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-293E32?style=flat-square&logo=angular&logoColor=EFE9DA)
-![TypeScript](https://img.shields.io/badge/TypeScript-293E32?style=flat-square&logo=typescript&logoColor=EFE9DA)
-![React](https://img.shields.io/badge/React-293E32?style=flat-square&logo=react&logoColor=EFE9DA)
+![Angular](https://img.shields.io/badge/Angular-363a4f?style=flat-square&logo=angular&logoColor=ed8796)
+![TypeScript](https://img.shields.io/badge/TypeScript-363a4f?style=flat-square&logo=typescript&logoColor=ed8796)
+![React](https://img.shields.io/badge/React-363a4f?style=flat-square&logo=react&logoColor=ed8796)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-293E32?style=flat-square&logo=git&logoColor=EFE9DA)
-![Postman](https://img.shields.io/badge/Postman-293E32?style=flat-square&logo=postman&logoColor=EFE9DA)
-![VS Code](https://img.shields.io/badge/VS_Code-293E32?style=flat-square&logo=visualstudiocode&logoColor=EFE9DA)
-![Claude Code](https://img.shields.io/badge/Claude_Code-293E32?style=flat-square&logo=claude&logoColor=EFE9DA)
-![Codex](https://img.shields.io/badge/Codex-293E32?style=flat-square&logo=openai&logoColor=EFE9DA)
-![OpenCode](https://img.shields.io/badge/OpenCode-293E32?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YwZWNlNCIvPgogIDxyZWN0IHg9IjI3IiB5PSIyMiIgd2lkdGg9IjQ2IiBoZWlnaHQ9IjU2IiBmaWxsPSIjMWMxYzFjIi8+CiAgPHJlY3QgeD0iMjciIHk9IjQ0IiB3aWR0aD0iNDYiIGhlaWdodD0iMzQiIGZpbGw9IiM0YTRhNGEiLz4KPC9zdmc+Cg==)
+![Git](https://img.shields.io/badge/Git-363a4f?style=flat-square&logo=git&logoColor=f5a97f)
+![Postman](https://img.shields.io/badge/Postman-363a4f?style=flat-square&logo=postman&logoColor=f5a97f)
+![VS Code](https://img.shields.io/badge/VS_Code-363a4f?style=flat-square&logo=visualstudiocode&logoColor=f5a97f)
+![Claude Code](https://img.shields.io/badge/Claude_Code-363a4f?style=flat-square&logo=claude&logoColor=f5a97f)
+![Codex](https://img.shields.io/badge/Codex-363a4f?style=flat-square&logo=openai&logoColor=f5a97f)
+![OpenCode](https://img.shields.io/badge/OpenCode-363a4f?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2YwZWNlNCIvPgogIDxyZWN0IHg9IjI3IiB5PSIyMiIgd2lkdGg9IjQ2IiBoZWlnaHQ9IjU2IiBmaWxsPSIjMWMxYzFjIi8+CiAgPHJlY3QgeD0iMjciIHk9IjQ0IiB3aWR0aD0iNDYiIGhlaWdodD0iMzQiIGZpbGw9IiM0YTRhNGEiLz4KPC9zdmc+Cg==)
 
 **Certifications**
 
-![AZ-900](https://img.shields.io/badge/AZ--900_Azure_Fundamentals-5F8F73?style=flat-square&logo=microsoftazure&logoColor=EFE9DA&labelColor=293E32)
+![AZ-900](https://img.shields.io/badge/Microsoft_Certified-AZ--900_Azure_Fundamentals-7aa2f7?style=flat-square&logo=microsoftazure&logoColor=cad3f5&labelColor=363a4f)
 
 <br>
 
@@ -97,9 +100,9 @@ Interested? Get in touch via [email](mailto:contact@cgennari.com) or [LinkedIn](
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Gennari-293E32?style=flat-square&logo=linkedin&logoColor=EFE9DA)](https://www.linkedin.com/in/christiangennari/)
-[![Email](https://img.shields.io/badge/Mail-contact@cgennari.com-293E32?style=flat-square&logo=minutemailer&logoColor=EFE9DA)](mailto:contact@cgennari.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Gennari-8aadf4?style=flat-square&logo=linkedin&logoColor=1e2030)](https://www.linkedin.com/in/christiangennari/)
+[![Email](https://img.shields.io/badge/Mail-contact@cgennari.com-494d64?style=flat-square&logo=minutemailer&logoColor=cad3f5)](mailto:contact@cgennari.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=293E32&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer)
 
 </div>
