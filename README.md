@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&text=Christian%20Gennari&fontColor=c0caf5&fontSize=34&fontAlignY=42&desc=.NET%20Developer%20%7C%20Hudiksvall&descSize=15&descAlignY=64&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=7aa2f7&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;A+grown-up+focus+on+value.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=7aa2f7&center=true&vCenter=true&width=520&lines=Loose+coupling.;Clean+architecture.;Code+that+breathes.;A+focus+on+value.)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Hudiksvall%2C_Sweden-1f2335?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7)
 ![Views](https://komarev.com/ghpvc/?username=Christian-Gennari&style=for-the-badge&color=1f2335&label=profile+views&labelColor=24283b)
@@ -11,7 +11,7 @@
 
 <br>
 
-I want to build software that holds up over time: thoughtful, sustainable, and above all useful. Early in my career as a developer, but with a grown-up focus on value.
+I want to build software that holds up over time: thoughtful, sustainable, and above all useful. Early in my career as a developer, but with a clear focus on value.
 
 My path looks scattered on paper: co-founder of a media company, a bachelor's degree in political science, and now full-time software development. The threads connect, though. Founding a company taught me that the prettiest code is worthless if it doesn't solve the right problem. Political science trained me to analyze complex structures and see how small details shape the whole. The media background sharpened my eye for detail and for the user.
 
