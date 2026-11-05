@@ -70,7 +70,7 @@ def frame(f, th, angs):
     def c(rgb, a=1.0): return rgb + (int(255 * a * (1 - out) if a < 9 else 255),)
     # name and role
     d.text((LM * s, 48 * s), 'Christian Gennari', font=F_NAME, fill=th['fg'] + (255,), anchor='ls')
-    d.text((LM * s, 72 * s), '.NET developer · Hudiksvall, Sweden', font=F_MONO_S, fill=th['muted'] + (255,), anchor='ls')
+    d.text((LM * s, 72 * s), '.NET developer', font=F_MONO_S, fill=th['muted'] + (255,), anchor='ls')
     # ground, fulcrum, plank
     d.line([(LM * s, GROUND * s), ((W - LM) * s, GROUND * s)], fill=th['line'] + (255,), width=s)
     d.polygon([(PIV[0] * s, PIV[1] * s), ((PIV[0] - 18) * s, GROUND * s), ((PIV[0] + 18) * s, GROUND * s)], fill=th['muted'] + (255,))

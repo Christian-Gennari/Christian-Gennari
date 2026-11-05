@@ -1,9 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp">
-  <img alt="Christian Gennari, .NET developer in Hudiksvall, Sweden. A year of GitHub contributions lands week by week on a lever and lifts the world, followed by the comment: Give me a place to stand and a working API, and I shall move the world. (Archimedes). await world.MoveAsync(lever);" src="assets/header-light.webp" width="880">
+  <img alt="Christian Gennari, .NET developer. A year of GitHub contributions lands week by week on a lever and lifts the world, followed by the comment: Give me a place to stand and a working API, and I shall move the world. (Archimedes). await world.MoveAsync(lever);" src="assets/header-light.webp" width="880">
 </picture>
-
-.NET developer in Hudiksvall, Sweden. I build useful software around real problems, from the database to the interface and where it runs.
 
 ## What I build
 
@@ -16,14 +14,12 @@
 - [Free AI Commit Message](https://github.com/Christian-Gennari/vscode-extension-free-ai-commit-message): commit messages from the LLM provider of your choice, for [VS Code](https://github.com/Christian-Gennari/vscode-extension-free-ai-commit-message) and [JetBrains](https://github.com/Christian-Gennari/jetbrains-plugin-free-ai-commit-message)
 - [Scriptorium](https://github.com/Christian-Gennari/Scriptorium): a self-hosted writing app that saves plain Markdown files
 - [UbuntuSafeSnap](https://github.com/Christian-Gennari/UbuntuSafeSnap): a .NET CLI that backs up and restores an Ubuntu setup
-- [OllamaRadar](https://github.com/Christian-Gennari/OllamaRadar)
+- [OllamaRadar](https://github.com/Christian-Gennari/OllamaRadar): a terminal radar that tracks time-to-first-token for Ollama Cloud models and forecasts the best hours to use each one
 - [clipbeam](https://github.com/Christian-Gennari/clipbeam): sends clipboard screenshots from Windows to a remote Linux server
 - [Intentional Pause](https://github.com/Christian-Gennari/intentional-pause): a small page that interrupts a visit to a distracting site
 
 ## Background
 
-I co-founded a media production company, Toginta Productions, and hold a BA in political science from Mid Sweden University. I am finishing my .NET studies at Edugrade, with a 22-week internship at Statens tjänstepensionsverk (SPV) in Sundsvall from November 2026 to April 2027. Microsoft AZ-900 certified (February 2026). I read classics and philosophy.
+Before code I co-founded a media production company, Toginta Productions, and studied political science at Mid Sweden University. Both still shape how I work: start from the problem, keep the person using the software in mind, and think in systems. AZ-900 certified. Away from the screen I read classics and philosophy.
 
-## Contact
-
-[dev.cgennari.com](https://dev.cgennari.com) · [contact@cgennari.com](mailto:contact@cgennari.com) · [LinkedIn](https://www.linkedin.com/in/christiangennari)
+The long version, with my CV, is at [dev.cgennari.com](https://dev.cgennari.com).
