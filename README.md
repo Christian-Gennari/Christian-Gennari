@@ -11,7 +11,7 @@
 
 <br>
 
-I want to build software that holds up over time: thoughtful, sustainable, and above all useful. Early in my career as a developer, but with a clear focus on value.
+I want to build software that holds up over time: thoughtful, sustainable, and above all useful. Early in my career as a developer, but with a crystal clear focus on value.
 
 My path looks scattered on paper: co-founder of a media company, a bachelor's degree in political science, and now full-time software development. The threads connect, though. Founding a company taught me that the prettiest code is worthless if it doesn't solve the right problem. Political science trained me to analyze complex structures and see how small details shape the whole. The media background sharpened my eye for detail and for the user.
 
