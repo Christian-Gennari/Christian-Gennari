@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
-  <img alt="Christian Gennari. A lever on a fulcrum: a year of GitHub contributions, week by week, lands on the long end and lifts the world. “Give me a place to stand and a working API, and I shall move the world.” Archimedes" src="assets/header-light.gif" width="800">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp">
+  <img alt="Christian Gennari, .NET developer in Hudiksvall, Sweden. A year of GitHub contributions lands week by week on a lever and lifts the world, followed by the comment: Give me a place to stand and a working API, and I shall move the world. (Archimedes). await world.MoveAsync(lever);" src="assets/header-light.webp" width="880">
 </picture>
 
 .NET developer in Hudiksvall, Sweden. I build useful software around real problems, from the database to the interface and where it runs.
