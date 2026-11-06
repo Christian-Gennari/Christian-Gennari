@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.webp">
-  <img alt="Christian Gennari, .NET developer. A year of GitHub contributions lands week by week on a lever and lifts the world, followed by the comment: Give me a place to stand and a working API, and I shall move the world. (Archimedes). await world.MoveAsync(lever);" src="assets/header-light.webp" width="880">
+  <img alt="Christian Gennari, software developer. A year of GitHub contributions lands week by week on a lever and lifts the world, followed by the comment: Give me a place to stand and a working API, and I shall move the world. (Archimedes). await world.MoveAsync(lever);" src="assets/header-light.webp" width="880">
 </picture>
 
 ## What I build
